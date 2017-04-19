@@ -1,0 +1,2 @@
+[19-Mar-2017 05:27:52 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/rpandya1990/public_html/wp-content/themes/TESSERACT/404.php on line 8
+[23-Mar-2017 22:58:06 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/rpandya1990/public_html/wp-content/themes/TESSERACT/404.php on line 8

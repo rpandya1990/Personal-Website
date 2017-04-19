@@ -1,0 +1,2 @@
+[02-Aug-2016 12:24:11 America/Chicago] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/admin/includes/admin-functions.php): failed to open stream: No such file or directory in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3
+[02-Aug-2016 12:24:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/admin/includes/admin-functions.php' (include_path='.:/opt/php56/lib/php') in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/admin/admin.php on line 3

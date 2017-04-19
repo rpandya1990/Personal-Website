@@ -1,0 +1,14 @@
+[02-Aug-2016 12:18:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[02-Aug-2016 12:19:02 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[02-Aug-2016 12:19:04 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[02-Aug-2016 12:23:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[02-Aug-2016 12:24:14 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[02-Aug-2016 12:24:21 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[02-Aug-2016 12:24:25 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[05-Oct-2016 16:37:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[05-Oct-2016 16:37:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[05-Oct-2016 16:37:33 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[05-Oct-2016 16:37:45 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[07-Feb-2017 04:52:58 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[07-Feb-2017 04:53:01 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[07-Feb-2017 04:53:03 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/rpandya1990/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3

@@ -1,0 +1,8 @@
+[22-Jun-2016 23:57:19 UTC] PHP Notice:  Undefined index: title in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 69
+[22-Jun-2016 23:57:19 UTC] PHP Notice:  Undefined index: slideshowck_id in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 77
+[22-Jun-2016 23:57:35 UTC] PHP Notice:  Undefined index: slideshowck_id in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 56
+[22-Jun-2016 23:57:35 UTC] PHP Notice:  Undefined index: title in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 69
+[23-Jun-2016 00:12:36 UTC] PHP Notice:  Undefined index: title in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 69
+[23-Jun-2016 00:12:36 UTC] PHP Notice:  Undefined index: slideshowck_id in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 77
+[23-Jun-2016 00:12:54 UTC] PHP Notice:  Undefined index: slideshowck_id in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 56
+[23-Jun-2016 00:12:54 UTC] PHP Notice:  Undefined index: title in /home1/rpandya1990/public_html/wp-content/plugins/slideshow-ck/includes/widget-slideshowck.php on line 69
